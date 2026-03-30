@@ -106,24 +106,25 @@ const solomon = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 Hospital Management System</h3>
+<h3 align="center">📈 Binary Trading Platform</h3>
 
 <div align="center">
 <a href="#">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=hospital-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Hospital Management System"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=binary-trading-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
 </a>
 </div>
 
-**A full SaaS-ready healthcare platform built for scale**
+**A real-time trading system built for speed, precision, and scalability**
 
-- 🔐 Role-based auth — Admin, Doctor, Nurse, Patient
-- 📊 Real-time dashboards with analytics
-- 🗂️ Patient records & appointment management
-- 💊 Prescription & inventory tracking
-- 🏗️ Multi-tenant, production-ready architecture
+- 📊 Live market data & real-time price updates  
+- ⚡ Instant trade execution engine  
+- 🔐 Secure authentication & wallet system  
+- 📉 Trading analytics dashboard  
+- 🏗️ High-performance, scalable backend architecture  
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_Repository-%237c3aed.svg?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -131,25 +132,26 @@ const solomon = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Portfolio Backend System</h3>
+<h3 align="center">🏨 Hotel Management System (SaaS)</h3>
 
 <div align="center">
 <a href="#">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=portfolio-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Portfolio Backend"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=hotel-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
 </a>
 </div>
 
-**Professional contact system with full backend integration**
+**A scalable hospitality platform designed to streamline hotel operations**
 
-- 📩 Email notifications via Nodemailer
-- 🗃️ Persistent message storage & DB layer
-- ⚡ Express.js REST API with validation
-- 🔒 Spam protection & rate limiting
-- 🚀 CI/CD deployed on Vercel
+- 🛎️ Room booking & reservation management  
+- 👥 Guest check-in / check-out workflows  
+- 💳 Billing, invoicing & payment tracking  
+- 📊 Admin dashboard with occupancy insights  
+- 🏗️ Multi-tenant SaaS architecture for multiple properties  
 
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_Repository-%230ea5e9.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
