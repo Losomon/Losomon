@@ -110,7 +110,7 @@ const solomon = {
 
 <div align="center">
 <a href="#">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=binary-trading-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=binary-trading-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
 </a>
 </div>
 
@@ -136,7 +136,7 @@ const solomon = {
 
 <div align="center">
 <a href="#">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=hotel-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=hotel-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
 </a>
 </div>
 
