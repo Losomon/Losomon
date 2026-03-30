@@ -1,125 +1,237 @@
 <div align="center">
 
-# 🚀 Solomon Mwangi
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-**Full Stack Developer | UI/UX Designer | SaaS Builder | Nairobi 🇰🇪**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Solomon%20Mwangi&fontSize=55&fontColor=e2d9f3&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20UI%2FUX%20Designer%20%7C%20SaaS%20Builder%20%7C%20Nairobi%20🇰🇪&descAlignY=60&descSize=16&animation=twinkling&stroke=a855f7&strokeWidth=2" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=true&width=650&height=45&lines=🚀+Building+production-grade+systems+in+Africa;🏥+Currently%3A+Hospital+Management+SaaS;🎨+Clean+UI+%2B+Solid+Architecture+%3D+My+Stack;🌍+Nairobi-based.+Global+mindset.;💡+I+don't+write+code+—+I+design+experiences." alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- Badges Row -->
+<a href="https://linkedin.com/in/solomonmwangi">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/solomonmwangi">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://my-portfolio-v51e.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:solomboni5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=SolomonMwangi&style=for-the-badge&color=7c3aed&label=VISITORS"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 👋 Welcome!
-
-I'm **Solomon Mwangi**, a passionate full-stack developer and SaaS architect based in Nairobi. I specialize in building scalable, production-ready systems that solve real-world problems in Africa and beyond.
+## 👨‍💻 About Me
 
 ```typescript
 const solomon = {
-  name: "Solomon Mwangi",
+  name:     "Solomon Mwangi",
   location: "Nairobi, Kenya 🇰🇪",
-  focus: ["Full-Stack Development", "SaaS Architecture", "UI/UX Design"],
-  currentProject: "🏥 Hospital Management System (SaaS)",
-  mantra: "Code is craft. Design is intent. Together = impact."
+  roles:    ["Full Stack Developer", "UI/UX Designer", "SaaS Builder"],
+
+  currentlyBuilding: "🏥 Hospital Management System (SaaS)",
+  currentlyLearning: ["3D Web (Three.js)", "System Design", "WebGL"],
+
+  mission:   "Solving real-world African problems with elegant software",
+  principle: "Code is craft. Design is intent. Together = impact.",
+
+  funFact:   "I ship features before my coffee gets cold ☕",
 };
 ```
 
----
-
-## 🎯 Services
-
-| 🏗️ Service | 📝 Description | 👥 Best For |
-|-----------|---------------|-----------|
-| **Full-Stack Development** | End-to-end web & mobile apps built with modern tech | Startups, MVPs, Complex Systems |
-| **💼 SaaS Architecture** | Production-ready, scalable multi-tenant systems | B2B Platforms, Enterprise Solutions |
-| **🎨 UI/UX Design** | Beautiful, conversion-optimized interfaces | Web Apps, Dashboards, Marketplaces |
-| **🔧 Backend Systems** | Robust APIs, databases, real-time features | Integrations, Microservices, Data Pipelines |
-| **📱 Mobile-First Web** | Responsive, performant, SEO-optimized apps | Consumer Apps, E-commerce, Portals |
+<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+<div align="center">
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23EF0083.svg?style=for-the-badge&logo=framer&logoColor=white)
 
-### **Backend**
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Database & Cloud**
+**Database & Cloud**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 **Hospital Management System (SaaS)**
-A full-featured healthcare platform serving 50+ facilities.
-- ✅ Role-based authentication (Admin, Doctor, Nurse, Patient)
-- ✅ Real-time dashboards with analytics
-- ✅ Patient records & appointment management
-- ✅ Multi-tenant, production-ready architecture
+<div align="center">
 
-**Tech:** React | Node.js | PostgreSQL
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 Hospital Management System</h3>
+
+<div align="center">
+<a href="#">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=hospital-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Hospital Management System"/>
+</a>
+</div>
+
+**A full SaaS-ready healthcare platform built for scale**
+
+- 🔐 Role-based auth — Admin, Doctor, Nurse, Patient
+- 📊 Real-time dashboards with analytics
+- 🗂️ Patient records & appointment management
+- 💊 Prescription & inventory tracking
+- 🏗️ Multi-tenant, production-ready architecture
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-%237c3aed.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Portfolio Backend System</h3>
+
+<div align="center">
+<a href="#">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SolomonMwangi&repo=portfolio-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Portfolio Backend"/>
+</a>
+</div>
+
+**Professional contact system with full backend integration**
+
+- 📩 Email notifications via Nodemailer
+- 🗃️ Persistent message storage & DB layer
+- ⚡ Express.js REST API with validation
+- 🔒 Spam protection & rate limiting
+- 🚀 CI/CD deployed on Vercel
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-%230ea5e9.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-### 🌐 **Portfolio Backend System**
-Professional contact system with full backend integration.
-- ✅ Email notifications via Nodemailer
-- ✅ Persistent message storage
-- ✅ REST API with validation & rate limiting
+## 📊 GitHub Stats
 
-**Tech:** Node.js | Express | MongoDB
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=SolomonMwangi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonMwangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 
-## 📊 GitHub Statistics
+<br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolomonMwangi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7)
+<img src="https://streak-stats.demolab.com/?user=SolomonMwangi&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=a855f7&ring=7c3aed&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" width="60%" alt="GitHub Streak"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonMwangi&layout=compact&theme=tokyonight)
+<br/><br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolomonMwangi&bg_color=0D1117&color=a855f7&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=8" width="95%" alt="Activity Graph"/>
 
-## 💡 Why Work With Me?
+</div>
 
-✅ **Production-Ready Code** — Scalable & maintainable  
-✅ **Full-Stack Expertise** — Design to deployment  
-✅ **African-Focused** — Understanding local markets  
-✅ **Fast Execution** — Ship features quickly  
-✅ **Communication First** — Weekly updates  
-✅ **Post-Launch Support** — Maintenance & scaling included  
+<br/>
 
 ---
 
-## 💰 Engagement Models
+## 🏆 GitHub Trophies
 
-| Model | Best For | Timeline |
-|-------|----------|----------|
-| **Hourly ($75/hr)** | Ad-hoc tasks, consultations | As needed |
-| **Project-Based** | MVPs, well-scoped projects | 1-3 months |
-| **Retainer ($2K/month)** | Ongoing development, support | Flexible |
-| **Revenue Share** | Early-stage startups | Partnership basis |
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SolomonMwangi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+</div>
 
----
-
-## 📞 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email%20Me-solomboni5%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomboni5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solomonmwangi)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/solomonmwangi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-v51e.vercel.app)
+<br/>
 
 ---
 
-**"The best technology solves the problem in the room, not just the one on the whiteboard."**
+## 🐍 Eating My Contributions
 
-*— Solomon Mwangi, Nairobi 🇰🇪*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SolomonMwangi/SolomonMwangi/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SolomonMwangi/SolomonMwangi/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/SolomonMwangi/SolomonMwangi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
-Made with 💜 in Nairobi | ⭐ Star a repo if you find it useful
+<br/>
+
+---
+
+## 🌍 Building for Africa, Shipping for the World
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "The best technology solves the problem in the room,      │
+│    not just the one on the whiteboard."                     │
+│                                                             │
+│                        — Solomon Mwangi, Nairobi 🇰🇪        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=22&fontColor=e2d9f3&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<sub>Made with 💜 in Nairobi · ⭐ Star a repo if you find it useful · <a href="https://my-portfolio-v51e.vercel.app">Visit Portfolio</a></sub>
+
+</div>
