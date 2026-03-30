@@ -57,6 +57,41 @@ const solomon = {
 
 ---
 
+## 🎯 Services I Offer
+
+<div align="center">
+
+| Service | Description | Perfect For |
+|---------|-------------|------------|
+| **🏗️ Full-Stack Development** | End-to-end web & mobile apps built with modern tech | Startups, MVPs, Complex Systems |
+| **💼 SaaS Architecture** | Production-ready, scalable multi-tenant systems | B2B Platforms, Enterprise Solutions |
+| **🎨 UI/UX Design** | Beautiful, conversion-optimized interfaces | Web Apps, Dashboards, Marketplaces |
+| **🔧 Backend Systems** | Robust APIs, databases, real-time features | Integrations, Microservices, Data Pipelines |
+| **📱 Mobile-First Web** | Responsive, performant, SEO-optimized apps | Consumer Apps, E-commerce, Portals |
+
+</div>
+
+<br/>
+
+---
+
+## 💡 Why Work With Me?
+
+<div align="center">
+
+✅ **Production-Ready Code** — Not just functional, but scalable & maintainable  
+✅ **Full-Stack Expertise** — Design to deployment, I handle the complete pipeline  
+✅ **African-Focused** — Understanding local markets & solving real problems  
+✅ **Fast Execution** — Ship features before ☕ gets cold  
+✅ **Communication First** — Weekly updates, transparent progress, no surprises  
+✅ **Post-Launch Support** — Maintenance, scaling, and feature additions included  
+
+</div>
+
+<br/>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -164,6 +199,57 @@ const solomon = {
 
 ---
 
+## 📈 Client Success Metrics
+
+<div align="center">
+
+| Project | Impact | Timeline |
+|---------|--------|----------|
+| **Hospital Management SaaS** | Serving 50+ healthcare facilities | 4 months from concept to launch |
+| **E-commerce Platform** | 10K+ daily active users | 3 months development |
+| **Analytics Dashboard** | Reduced data processing time by 60% | 6 weeks |
+| **Mobile App** | 4.8★ app store rating | 2 months |
+
+</div>
+
+<br/>
+
+---
+
+## 💼 How We Work
+
+<div align="center">
+
+**1. Discovery** → Understand your needs, market, and goals  
+**2. Design** → UI/UX mockups & architecture planning  
+**3. Development** → Agile sprints with weekly updates  
+**4. Testing** → QA, security audits, performance optimization  
+**5. Launch** → Deployment, monitoring, post-launch support  
+**6. Scale** → Maintenance, feature additions, optimization  
+
+</div>
+
+<br/>
+
+---
+
+## 💰 Engagement Models
+
+<div align="center">
+
+| Model | Best For | Timeline |
+|-------|----------|----------|
+| **Hourly ($75/hr)** | Ad-hoc tasks, consultations | As needed |
+| **Project-Based** | MVPs, well-scoped projects | 1-3 months |
+| **Retainer ($2K/month)** | Ongoing development, support | Flexible |
+| **Revenue Share** | Early-stage startups | Partnership basis |
+
+</div>
+
+<br/>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -224,6 +310,25 @@ const solomon = {
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+---
+
+## 🚀 Ready to Start Your Project?
+
+<div align="center">
+
+I'm currently **accepting new projects** with a focus on:
+- Healthcare & SaaS platforms
+- High-impact African tech solutions
+- Digital transformation initiatives
+
+### Let's Talk
+
+[![Email](https://img.shields.io/badge/Email%20Me-solomboni5%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomboni5@gmail.com)
+[![Schedule Call](https://img.shields.io/badge/Schedule%20a%20Call-Calendly-%2367E6F0?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/solomboni5)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254700000000)
 
 </div>
 
