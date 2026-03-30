@@ -6,14 +6,6 @@
 
 <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Solomon%20Mwangi&fontSize=55&fontColor=e2d9f3&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20UI%2FUX%20Designer%20%7C%20SaaS%20Builder%20%7C%20Nairobi%20🇰🇪&descAlignY=60&descSize=16&animation=twinkling&stroke=a855f7&strokeWidth=2" width="100%"/>
-
-  <!-- Fixed Typing Animation -->
-<img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=🚀+Building+production-grade+systems+in+Africa;🏥+Currently%3A+Hospital+Management+SaaS;🎨+Clean+UI+%2B+Solid+Architecture;🌍+Nairobi-based.+Global+mindset.;💡+I+design+experiences." 
-    alt="Typing Animation"
-  />
-
-  <br/><br/>
   
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
