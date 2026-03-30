@@ -175,11 +175,11 @@ const solomon = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=SolomonMwangi&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=a855f7&ring=7c3aed&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Losomon&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=a855f7&ring=7c3aed&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" width="60%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolomonMwangi&bg_color=0D1117&color=a855f7&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=8" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Losomon&bg_color=0D1117&color=a855f7&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=8" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -190,7 +190,7 @@ const solomon = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SolomonMwangi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Losomon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </div>
 
 <br/>
