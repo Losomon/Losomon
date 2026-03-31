@@ -189,9 +189,8 @@ const solomon = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Losomon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Losomon&theme=tokyonight&show_icons=true&hide_border=true" />
 </div>
-
 ---
 
 ## 🐍 Eating My Contributions
