@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#24243e"/>
+      <stop offset="50%"  stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="120" fill="url(#fbg)"/>
+  <path d="M0,0 Q215,40 430,20 Q645,0 860,30 L860,0 Z" fill="#0d1117" opacity="0.3"/>
+  <text x="430" y="65" font-family="Georgia,serif" font-size="22" font-weight="bold"
+    fill="#e2d9f3" text-anchor="middle">Let's Build Something Great</text>
+  <text x="430" y="92" font-family="monospace" font-size="11"
+    fill="#a0a0c0" text-anchor="middle">Made with in Nairobi</text>
+</svg>
