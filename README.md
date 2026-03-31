@@ -1,40 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HEADER SVG (no external service)     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 200">
-  <defs>
-    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0f0c29"/>
-      <stop offset="40%"  stop-color="#302b63"/>
-      <stop offset="100%" stop-color="#24243e"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="20%" cy="30%" r="40%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="80%" cy="70%" r="40%">
-      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="860" height="200" fill="url(#hbg)"/>
-  <rect width="860" height="200" fill="url(#glow1)"/>
-  <rect width="860" height="200" fill="url(#glow2)"/>
-  <text x="430" y="95" font-family="Georgia,serif" font-size="54" font-weight="bold"
-    fill="#e2d9f3" text-anchor="middle" letter-spacing="-1">Solomon Mwangi</text>
-  <text x="430" y="138" font-family="monospace" font-size="14"
-    fill="#a0a0c0" text-anchor="middle">Full Stack Dev | UI/UX Designer | SaaS Builder | Nairobi 🇰🇪</text>
-  <line x1="280" y1="158" x2="580" y2="158" stroke="#a855f7" stroke-width="1" stroke-opacity="0.5"/>
-</svg>
+<img src="./header.svg" width="100%" alt="Solomon Mwangi"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=true&width=650&height=45&lines=🚀+Building+production-grade+systems+in+Africa;🏥+Currently%3A+Hospital+Management+SaaS;🎨+Clean+UI+%2B+Solid+Architecture+%3D+My+Stack;🌍+Nairobi-based.+Global+mindset.;💡+I+don't+write+code+—+I+design+experiences." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A855F7&center=true&width=600&lines=Building+production-grade+systems+in+Africa;Currently%3A+Hospital+Management+SaaS;Clean+UI+%2B+Solid+Architecture+%3D+My+Stack;Nairobi-based.+Global+mindset.;I+design+experiences%2C+not+just+code." alt="Typing SVG" />
 
 <br/>
 
