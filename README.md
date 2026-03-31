@@ -1,12 +1,22 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- HEADER SVG —  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="40%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="180" fill="url(#bg)" rx="0"/>
+  <text x="430" y="90" font-family="Georgia,serif" font-size="52" font-weight="bold"
+    fill="#e2d9f3" text-anchor="middle">Solomon Mwangi</text>
+  <text x="430" y="128" font-family="monospace" font-size="14"
+    fill="#a0a0c0" text-anchor="middle">Full Stack Dev | UI/UX Designer | SaaS Builder | Nairobi 🇰🇪</text>
+</svg>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Solomon%20Mwangi&fontSize=55&fontColor=e2d9f3&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20UI%2FUX%20Designer%20%7C%20SaaS%20Builder%20%7C%20Nairobi%20🇰🇪&descAlignY=60&descSize=16&animation=twinkling&stroke=a855f7&strokeWidth=2" width="100%"/>
-
-<!-- Typing Animation -->
+<!-- Typing Animation —  -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=true&width=650&height=45&lines=🚀+Building+production-grade+systems+in+Africa;🏥+Currently%3A+Hospital+Management+SaaS;🎨+Clean+UI+%2B+Solid+Architecture+%3D+My+Stack;🌍+Nairobi-based.+Global+mindset.;💡+I+don't+write+code+—+I+design+experiences." alt="Typing SVG"/>
 </a>
