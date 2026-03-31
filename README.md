@@ -1,29 +1,46 @@
 <div align="center">
 
-<!-- HEADER SVG —  -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 180">
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HEADER SVG (no external service)     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 200">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="40%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
+    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0f0c29"/>
+      <stop offset="40%"  stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
     </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="80%" cy="70%" r="40%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="860" height="180" fill="url(#bg)" rx="0"/>
-  <text x="430" y="90" font-family="Georgia,serif" font-size="52" font-weight="bold"
-    fill="#e2d9f3" text-anchor="middle">Solomon Mwangi</text>
-  <text x="430" y="128" font-family="monospace" font-size="14"
+  <rect width="860" height="200" fill="url(#hbg)"/>
+  <rect width="860" height="200" fill="url(#glow1)"/>
+  <rect width="860" height="200" fill="url(#glow2)"/>
+  <text x="430" y="95" font-family="Georgia,serif" font-size="54" font-weight="bold"
+    fill="#e2d9f3" text-anchor="middle" letter-spacing="-1">Solomon Mwangi</text>
+  <text x="430" y="138" font-family="monospace" font-size="14"
     fill="#a0a0c0" text-anchor="middle">Full Stack Dev | UI/UX Designer | SaaS Builder | Nairobi 🇰🇪</text>
+  <line x1="280" y1="158" x2="580" y2="158" stroke="#a855f7" stroke-width="1" stroke-opacity="0.5"/>
 </svg>
 
-<!-- Typing Animation —  -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=true&width=650&height=45&lines=🚀+Building+production-grade+systems+in+Africa;🏥+Currently%3A+Hospital+Management+SaaS;🎨+Clean+UI+%2B+Solid+Architecture+%3D+My+Stack;🌍+Nairobi-based.+Global+mindset.;💡+I+don't+write+code+—+I+design+experiences." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Badges Row -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                      BADGES ROW                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <a href="https://linkedin.com/in/solomonmwangi">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -31,12 +48,12 @@
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://my-portfolio-v51e.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23a855f7.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:solomboni5@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=SolomonMwangi&style=for-the-badge&color=7c3aed&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Losomon&style=for-the-badge&color=7c3aed&label=VISITORS"/>
 
 </div>
 
@@ -119,25 +136,25 @@ const solomon = {
 <h3 align="center">📈 Binary Trading Platform</h3>
 
 <div align="center">
-<a href="#">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=binary-trading-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
-</a>
+  <a href="https://github.com/Losomon/binary-trading-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=binary-trading-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
+  </a>
 </div>
 
 **A real-time trading system built for speed, precision, and scalability**
 
-- 📊 Live market data & real-time price updates  
-- ⚡ Instant trade execution engine  
-- 🔐 Secure authentication & wallet system  
-- 📉 Trading analytics dashboard  
-- 🏗️ High-performance, scalable backend architecture  
+- 📊 Live market data & real-time price updates
+- ⚡ Instant trade execution engine
+- 🔐 Secure authentication & wallet system
+- 📉 Trading analytics dashboard
+- 🏗️ High-performance, scalable backend architecture
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repository-%237c3aed.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repository-%237c3aed.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Losomon/binary-trading-platform)
 
 </td>
 <td width="50%" valign="top">
@@ -145,25 +162,25 @@ const solomon = {
 <h3 align="center">🏨 Hotel Management System (SaaS)</h3>
 
 <div align="center">
-<a href="#">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=hotel-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
-</a>
+  <a href="https://github.com/Losomon/hotel-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=hotel-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
+  </a>
 </div>
 
 **A scalable hospitality platform designed to streamline hotel operations**
 
-- 🛎️ Room booking & reservation management  
-- 👥 Guest check-in / check-out workflows  
-- 💳 Billing, invoicing & payment tracking  
-- 📊 Admin dashboard with occupancy insights  
-- 🏗️ Multi-tenant SaaS architecture for multiple properties  
+- 🛎️ Room booking & reservation management
+- 👥 Guest check-in / check-out workflows
+- 💳 Billing, invoicing & payment tracking
+- 📊 Admin dashboard with occupancy insights
+- 🏗️ Multi-tenant SaaS architecture for multiple properties
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repository-%230ea5e9.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repository-%230ea5e9.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Losomon/hotel-management-system)
 
 </td>
 </tr>
@@ -196,11 +213,15 @@ const solomon = {
 <br/>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Losomon&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Losomon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="60%" alt="Extended GitHub Stats"/>
 </div>
+
+<br/>
+
 ---
 
 ## 🐍 Eating My Contributions
@@ -236,10 +257,28 @@ const solomon = {
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  FOOTER SVG (no external service)       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=22&fontColor=e2d9f3&fontAlignY=65&animation=twinkling" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 860 120">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#24243e"/>
+      <stop offset="50%"  stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="120" fill="url(#fbg)"/>
+  <!-- wave shape at top -->
+  <path d="M0,0 Q215,40 430,20 Q645,0 860,30 L860,0 Z" fill="#0d1117" opacity="0.3"/>
+  <text x="430" y="65" font-family="Georgia,serif" font-size="22" font-weight="bold"
+    fill="#e2d9f3" text-anchor="middle">Let's Build Something Great</text>
+  <text x="430" y="92" font-family="monospace" font-size="11"
+    fill="#a0a0c0" text-anchor="middle">Made with 💜 in Nairobi</text>
+</svg>
 
-<sub>Made with 💜 in Nairobi · ⭐ Star a repo if you find it useful · <a href="https://my-portfolio-v51e.vercel.app">Visit Portfolio</a></sub>
+<sub>⭐ Star a repo if you find it useful · <a href="https://my-portfolio-v51e.vercel.app">Visit Portfolio</a></sub>
 
 </div>
