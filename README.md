@@ -127,10 +127,10 @@ const solomon = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🏨 Hotel Management System (SaaS)</h3>
+<h3 align="center">🏨 coconut-saraih-hotel (SaaS)</h3>
 
 <div align="center">
-  <a href="https://github.com/Losomon/hotel-management-system">
+  <a href="https://github.com/Losomon/coconut-saraih-hotel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=coconut-saraih-hotel &theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
   </a>
 </div>
