@@ -131,7 +131,7 @@ const solomon = {
 
 <div align="center">
   <a href="https://github.com/Losomon/hotel-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=hotel-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=zenithcore-systems&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Hotel Management System"/>
   </a>
 </div>
 
