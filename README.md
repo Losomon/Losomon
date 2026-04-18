@@ -105,7 +105,7 @@ const solomon = {
 
 <div align="center">
   <a href="https://github.com/Losomon/binary-trading-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=binary-trading-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Losomon&repo=binary-options-trading-simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="Binary Trading Platform"/>
   </a>
 </div>
 
