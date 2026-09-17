@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Solomon Mwangi"/>
+<img src="./header-github-safe.svg" width="100%" alt="Solomon Mwangi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A855F7&center=true&width=600&lines=Building+production-grade+systems+in+Africa;Currently%3A+Hospital+Management+SaaS;Clean+UI+%2B+Solid+Architecture+%3D+My+Stack;Nairobi-based.+Global+mindset.;I+design+experiences%2C+not+just+code." alt="Typing SVG" />
 
