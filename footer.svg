@@ -1,15 +1,142 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120">
+```svg
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="860"
+     height="120"
+     viewBox="0 0 860 120">
+
   <defs>
-    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#24243e"/>
-      <stop offset="50%"  stop-color="#302b63"/>
-      <stop offset="100%" stop-color="#0f0c29"/>
+
+    <!-- Premium dark background -->
+    <linearGradient id="footerBg"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="100%">
+
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#1A1A1A"/>
+
     </linearGradient>
+
+    <!-- Gold accent -->
+    <linearGradient id="gold"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+
+      <stop offset="0%" stop-color="#A67C00"/>
+      <stop offset="50%" stop-color="#F2D675"/>
+      <stop offset="100%" stop-color="#C89B2B"/>
+
+    </linearGradient>
+
   </defs>
-  <rect width="860" height="120" fill="url(#fbg)"/>
-  <path d="M0,0 Q215,40 430,20 Q645,0 860,30 L860,0 Z" fill="#0d1117" opacity="0.3"/>
-  <text x="430" y="65" font-family="Georgia,serif" font-size="22" font-weight="bold"
-    fill="#e2d9f3" text-anchor="middle">Let's Build Something Great</text>
-  <text x="430" y="92" font-family="monospace" font-size="11"
-    fill="#a0a0c0" text-anchor="middle">Made with in Nairobi</text>
+
+
+  <!-- Background -->
+  <rect
+    width="860"
+    height="120"
+    fill="url(#footerBg)"/>
+
+
+  <!-- Subtle top wave -->
+  <path
+    d="M0 0
+       Q215 32 430 14
+       Q645 -4 860 24
+       L860 0
+       Z"
+    fill="#000000"
+    opacity="0.35"/>
+
+
+  <!-- Thin gold top accent -->
+  <line
+    x1="90"
+    y1="24"
+    x2="770"
+    y2="24"
+    stroke="#D4AF37"
+    stroke-width="1"
+    opacity="0.28"/>
+
+
+  <!-- Developer mark -->
+  <text
+    x="430"
+    y="48"
+    font-family="Courier New, monospace"
+    font-size="13"
+    font-weight="700"
+    fill="#D4AF37"
+    text-anchor="middle">
+
+    &lt;/&gt;
+
+  </text>
+
+
+  <!-- Main message -->
+  <text
+    x="430"
+    y="72"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="22"
+    font-weight="700"
+    text-anchor="middle">
+
+    <tspan fill="#F5F5F5">Let's Build </tspan>
+    <tspan fill="url(#gold)">Something Great</tspan>
+
+  </text>
+
+
+  <!-- Bottom line -->
+  <text
+    x="430"
+    y="94"
+    font-family="Courier New, monospace"
+    font-size="10"
+    letter-spacing="1.5"
+    fill="#8A8A8A"
+    text-anchor="middle">
+
+    FULL STACK ENGINEER · BUILT IN NAIROBI, KENYA
+
+  </text>
+
+
+  <!-- Red center accent -->
+  <rect
+    x="423"
+    y="105"
+    width="14"
+    height="3"
+    rx="1.5"
+    fill="#B91C1C"/>
+
+
+  <!-- Small corner accents -->
+  <line
+    x1="70"
+    y1="108"
+    x2="150"
+    y2="108"
+    stroke="#D4AF37"
+    stroke-width="1"
+    opacity="0.35"/>
+
+  <line
+    x1="710"
+    y1="108"
+    x2="790"
+    y2="108"
+    stroke="#D4AF37"
+    stroke-width="1"
+    opacity="0.35"/>
+
 </svg>
+```
