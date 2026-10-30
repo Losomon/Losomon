@@ -9,7 +9,7 @@
 <a href="https://github.com/Losomon">
   <img src="https://img.shields.io/badge/GitHub-111111.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/solomonmwangi">
+<a href="https://linkedin.com/in/losomon22">
   <img src="https://img.shields.io/badge/LinkedIn-111111.svg?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
 </a>
 <a href="https://twitter.com/solomonmwangi">
